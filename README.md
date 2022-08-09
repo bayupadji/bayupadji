@@ -17,7 +17,7 @@ I’m currently a **3rd year student** at [Dian Nuswantoro University](https://w
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/bayupadji">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayupadji&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayupadji&layout=compact&langs_count=8&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayupadji&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayupadji&layout=compact&langs_count=8&theme=omni"/>
 </a>
 </p>
