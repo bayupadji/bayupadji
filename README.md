@@ -9,6 +9,8 @@ I’m currently a **3rd year student** at [Dian Nuswantoro University](https://w
   - <a href="https://www.linkedin.com/in/bayu-prasetya-adji-sugiyarto-8a1036209/">LinkedIn</a>
   - bayuprasetyaadji@gmail.com
   - <a href="https://www.instagram.com/prst.b.y/">Instagram</a>
+  - <a href="https://www.figma.com/@prasetya">Figma</a>
+  - <a href="https://dribbble.com/bayu_08">Dribbble</a>
 - 😄 Pronouns: Bayu or Pras
 - ⚡ Fun fact: I'd Like to Learn Something New.
 
