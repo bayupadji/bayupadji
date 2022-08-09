@@ -4,7 +4,7 @@ I'm **Bayu Prasetya Adji Sugiyarto**.
 
 I’m currently a **3rd year student** at [Dian Nuswantoro University](https://www.dinus.ac.id/) as Informatics Engineer.
 
-- 🌱 I’m currently learning Front-end Programming, UI/UX Design and Game Programming
+- 🌱 I’m currently learning Front-end Programming, Flutter, Game Programming and UI/UX Design
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/bayu-prasetya-adji-sugiyarto-8a1036209/">LinkedIn</a>
   - bayuprasetyaadji@gmail.com
