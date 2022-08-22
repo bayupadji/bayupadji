@@ -2,7 +2,7 @@
 
 I'm **Bayu Prasetya Adji Sugiyarto**.
 
-I’m currently a **3rd year student** at [Dian Nuswantoro University](https://www.dinus.ac.id/) as Informatics Engineer.
+I’m currently a **student** at [Dian Nuswantoro University](https://www.dinus.ac.id/) as Informatics Engineer.
 
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/bayu-prasetya-adji-sugiyarto-8a1036209/">LinkedIn</a>
